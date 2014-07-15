@@ -1,0 +1,4 @@
+name: "Intruder Detected"
+description: |
+  Alert! Our scans have detected that an intruder has come aboard. We need you to go to sector <ip address here> and make contact! Determine if the intruder is peaceful and whether they have anything to say for themselves.
+flag: "MCA-5411B047"

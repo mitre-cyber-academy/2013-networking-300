@@ -1,0 +1,7 @@
+---
+path:		.
+username:	"ubuntu"
+flavor_id:		"t1.micro"
+image_id:		"ami-da0d9eb3"
+tags:
+    Name:	web/ascii_server
